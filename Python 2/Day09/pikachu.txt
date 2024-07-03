@@ -1,0 +1,4 @@
+PIKACHU
+--------------
+Weight: 60
+Height: 4
