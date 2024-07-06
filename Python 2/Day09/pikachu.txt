@@ -1,4 +1,7 @@
 PIKACHU
---------------
-Weight: 60
+
+----- Stats -----
 Height: 4
+Weight: 60
+Type: electric
+Move: mega-punch
